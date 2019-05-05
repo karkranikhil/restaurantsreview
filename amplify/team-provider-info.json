@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "reactrestaurants-dev-20190505102039-authRole",
+            "UnauthRoleArn": "arn:aws:iam::486129879193:role/reactrestaurants-dev-20190505102039-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::486129879193:role/reactrestaurants-dev-20190505102039-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "reactrestaurants-dev-20190505102039-deployment",
+            "UnauthRoleName": "reactrestaurants-dev-20190505102039-unauthRole",
+            "StackName": "reactrestaurants-dev-20190505102039",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:486129879193:stack/reactrestaurants-dev-20190505102039/9c957dd0-6ecb-11e9-89b2-0657769f7dfc"
+        }
+    }
+}
